@@ -2,3 +2,9 @@
 body{
     font-family: 'helvetica', 'sans-serif';
 }
+
+#presentacion{
+    background-color: darkblue;
+    min-height: 100%;
+    min-width: 100%;
+}
