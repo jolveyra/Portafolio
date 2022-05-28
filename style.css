@@ -5,8 +5,9 @@ body{
 
 #presentacion{
     background-color: darkblue;
-    min-height: 100%;
-    min-width: 100%;
+    /* min-height: 100%;
+    min-width: 100%; */
+    viewport-fit: 100%;
     color: rgb(242, 237, 237);
 }
 
